@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "user": "Juan Pérez",
+    "category": "Food",
+    "amount": 15033.75,
+    "date": "2025-04-01"
+  },
+  {
+    "id": 2,
+    "user": "María López",
+    "category": "Transport",
+    "amount": 50,
+    "date": "2025-04-02"
+  },
+  {
+    "id": 8,
+    "user": "Laura Gómez",
+    "category": "Pets",
+    "amount": 60,
+    "date": "2025-04-08"
+  },
+  {
+    "id": 9,
+    "user": "Diego Sánchez",
+    "category": "Travel",
+    "amount": 1000,
+    "date": "2025-04-09"
+  },
+  {
+    "id": 10,
+    "user": "Elena Ruiz",
+    "category": "Others",
+    "amount": 25,
+    "date": "2025-04-10"
+  }
+]
